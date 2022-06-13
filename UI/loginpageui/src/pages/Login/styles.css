@@ -1,0 +1,19 @@
+body{
+    background : url(children.png);
+    width: 100%;
+   height: auto;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   /* border-radius: 25px; */
+}
+.placing{
+    border-radius: 25px;
+    position:absolute; 
+    top:0; 
+    /* border-radius: 25px; */
+    left:0;
+    padding : 10px;
+    margin-left: 10px;
+    
+}
